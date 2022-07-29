@@ -1,0 +1,3 @@
+1. Get Angular client
+2. Login with Angular to google api
+3. Use nestjs to validate token from angular client.
